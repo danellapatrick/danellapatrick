@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C-language" width="40" height="40"/> </a>
 <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C-language" width="40" height="40"/> </a>
 <a href=" https://www.cisco.com/c/en/us/about/brand-center/logo-usage-guidelines/certification-logo.html" target="_blank"> <img src="https://img.icons8.com/ios/50/000000/dns.png" alt="networking" width="40" height="40"/> </a>
+<a href=" " target="_blank"> <img src="https://th.bing.com/th/id/R.4829eb617b1dfe8a8fc19d68afdbb26a?rik=%2bQXEvgecNlr1WA&riu=http%3a%2f%2fitekblog.com%2fwp-content%2fuploads%2f2012%2f08%2fdjango-logo-positive.png&ehk=%2fe33SpOUHFSEGmDzCLsPS0XXevdpeYlkYC6muy1ITUA%3d&risl=&pid=ImgRaw&r=0" alt="networking" width="40" height="40"/> </a>
   
 </p>
 ---
