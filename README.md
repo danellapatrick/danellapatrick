@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"> <img src="https://th.bing.com/th/id/R.9cebd2558272d245faab7b1c457a5800?rik=MJrYg2GOH1U%2bRg&pid=ImgRaw&r=0" alt="networking" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="networking" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://th.bing.com/th/id/OIP.RDzZMM5dntvT_RadfPeNGwHaHd?pid=ImgDet&rs=1" alt="networking" width="40" height="40"/> </a>
-<a href="#" target="_blank"> <img src="https://th.bing.com/th/id/OIP.g1UePbTViZUIw9cx5EP35AHaHa?pid=ImgDet&rs=1" alt="networking" width="40" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://productscrack.com/wp-content/uploads/2021/02/PyCharm-Crack-768x768.png" alt="networking" width="40" height="40"/> </a>
   
 </p>
 ---
