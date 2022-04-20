@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hello World, I'm Danellla    👋
 
 <!--
 **danellapatrick/danellapatrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on  my CS bachelor's degree , my trainee job and my GDSC community 
 - 🌱 I’m currently learning Machine Learning and Deep Learning 
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: danellapatrickunny@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I Laugh Alot
-### Hello World, I'm Danellla    👋
+
 
 
 
