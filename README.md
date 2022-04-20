@@ -33,7 +33,10 @@ Here are some ideas to get you started:
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C-language" width="40" height="40"/> </a>
 <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C-language" width="40" height="40"/> </a>
 <a href=" https://www.cisco.com/c/en/us/about/brand-center/logo-usage-guidelines/certification-logo.html" target="_blank"> <img src="https://img.icons8.com/ios/50/000000/dns.png" alt="networking" width="40" height="40"/> </a>
-<a href=" " target="_blank"> <img src="https://th.bing.com/th/id/R.9cebd2558272d245faab7b1c457a5800?rik=MJrYg2GOH1U%2bRg&pid=ImgRaw&r=0" alt="networking" width="40" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://th.bing.com/th/id/R.9cebd2558272d245faab7b1c457a5800?rik=MJrYg2GOH1U%2bRg&pid=ImgRaw&r=0" alt="networking" width="40" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="networking" width="40" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://th.bing.com/th/id/OIP.RDzZMM5dntvT_RadfPeNGwHaHd?pid=ImgDet&rs=1" alt="networking" width="40" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://th.bing.com/th/id/OIP.g1UePbTViZUIw9cx5EP35AHaHa?pid=ImgDet&rs=1" alt="networking" width="40" height="40"/> </a>
   
 </p>
 ---
