@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open source 
 - 🤔 I’m looking for help with Data Science Projects
 - 💬 Ask me about my Soft skills
-- 📫 How to reach me: [Instagram](https://www.instagram.com/danellapatrick/) [LinkedIn](https://www.linkedin.com/in/danella-patrick/)[Gmail](danellapatricksunny@gmail.com)
+- 📫 How to reach me: [Instagram](https://www.instagram.com/danellapatrick/) [LinkedIn](https://www.linkedin.com/in/danella-patrick/) [Gmail](danellapatricksunny@gmail.com)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I Laugh Alot
