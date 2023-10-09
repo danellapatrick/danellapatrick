@@ -5,10 +5,10 @@
 -->
 
 
-- 🔭 I’m currently working on  my CS bachelor's degree , my trainee job and my GDSC community 
-- 🌱 I’m currently learning Machine Learning and Deep Learning 
-- 👯 I’m looking to collaborate on open source 
-- 🤔 I’m looking for help with Data Science Projects
+- 🔭 I’m a CS Graduate, Working as a QA Engineer
+- 🌱 I’m currently learning Automation  
+- 👯 I’m looking to collaborate on open-source 
+- 🤔 I’m looking for help with Automation Projects
 - 💬 Ask me about my Soft skills
 - 📫 How to reach me: danellapatrickunny@gmail.com
 - 😄 Pronouns: she/her
