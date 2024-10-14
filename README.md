@@ -5,7 +5,8 @@
 -->
 
 
-- 🔭 I’m a CS Graduate, Working as a QA Engineer
+- 🔭 I’m a CS Graduate, Working
+- 🧑‍🔬 I'm a SQA Engineer
 - 🌱 I’m currently learning Automation  
 - 👯 I’m looking to collaborate on open-source 
 - 🤔 I’m looking for help with Automation Projects
