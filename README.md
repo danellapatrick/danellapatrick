@@ -36,7 +36,6 @@
 <a href=" https://www.cisco.com/c/en/us/about/brand-center/logo-usage-guidelines/certification-logo.html" target="_blank"> <img src="https://img.icons8.com/ios/50/000000/dns.png" alt="networking" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://th.bing.com/th/id/R.9cebd2558272d245faab7b1c457a5800?rik=MJrYg2GOH1U%2bRg&pid=ImgRaw&r=0" alt="networking" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="networking" width="40" height="40"/> </a>
-<a href="#" target="_blank"> <img src="https://img.favpng.com/17/22/15/tensorflow-deep-learning-keras-machine-learning-caffe-png-favpng-pkBx67Nfd3cGxFTuUuF1K6wJm.jpg" alt="networking" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://productscrack.com/wp-content/uploads/2021/02/PyCharm-Crack-768x768.png" alt="networking" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://th.bing.com/th/id/R.542da521dfa1e841c2e8b3598f3408db?rik=iMTC4R%2bsq2M%2bpA&pid=ImgRaw&r=0" alt="networking" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/elastic-kibana-logo-png-transparent.png" alt="networking" width="40" height="40"/> </a>
