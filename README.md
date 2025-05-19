@@ -7,7 +7,7 @@
 
 - 🔭 I’m a CS Graduate, Working
 - 🧑‍🔬 I'm a SQA Engineer
-- 🌱 I’m currently learning Automation  
+- 🌱 I’m Automation Engineer 
 - 👯 I’m looking to collaborate on open-source 
 - 🤔 I’m looking for help with Automation Projects
 - 💬 Ask me about my Soft skills
