@@ -27,18 +27,58 @@
 
 <p align="left"> 
 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C-language" width="40" height="40"/> </a>
-<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C-language" width="40" height="40"/> </a>
-<a href=" https://www.cisco.com/c/en/us/about/brand-center/logo-usage-guidelines/certification-logo.html" target="_blank"> <img src="https://img.icons8.com/ios/50/000000/dns.png" alt="networking" width="40" height="40"/> </a>
-<a href="#" target="_blank"> <img src="https://th.bing.com/th/id/R.9cebd2558272d245faab7b1c457a5800?rik=MJrYg2GOH1U%2bRg&pid=ImgRaw&r=0" alt="networking" width="40" height="40"/> </a>
-<a href="#" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="networking" width="40" height="40"/> </a>
-<a href="#" target="_blank"> <img src="https://productscrack.com/wp-content/uploads/2021/02/PyCharm-Crack-768x768.png" alt="networking" width="40" height="40"/> </a>
-<a href="#" target="_blank"> <img src="https://th.bing.com/th/id/R.542da521dfa1e841c2e8b3598f3408db?rik=iMTC4R%2bsq2M%2bpA&pid=ImgRaw&r=0" alt="networking" width="40" height="40"/> </a>
-<a href="#" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/elastic-kibana-logo-png-transparent.png" alt="networking" width="40" height="40"/> </a>
+<!-- HTML -->
+<a href="https://www.w3.org/html/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+</a>
+
+<!-- CSS -->
+<a href="https://www.w3schools.com/css/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+</a>
+
+<!-- OpenCV -->
+<a href="https://opencv.org/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+</a>
+
+<!-- Python -->
+<a href="https://www.python.org" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+
+<!-- C -->
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C-language" width="40" height="40"/>
+</a>
+
+<!-- C# -->
+<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C-sharp" width="40" height="40"/>
+</a>
+
+<!-- Networking -->
+<a href="https://www.cisco.com/" target="_blank">
+  <img src="https://img.icons8.com/ios/50/000000/dns.png" alt="networking" width="40" height="40"/>
+</a>
+
+<!-- ================= QA TOOLS ================= -->
+
+<!-- Selenium -->
+<a href="https://www.selenium.dev/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
+</a>
+
+<!-- Jenkins -->
+<a href="https://www.jenkins.io/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+</a>
+
+<!-- Playwright -->
+<a href="https://playwright.dev/" target="_blank">
+  <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/>
+</a>
+
   
 </p>
 ---
